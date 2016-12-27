@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "Jpush1227"
-  s.version      = "0.0.3"
+  s.version      = "0.0.4"
   s.summary      = "testJpush Jpush1227."
 
   # This description is used to generate tags and improve search results.
@@ -133,6 +133,6 @@ testJpush Jpush1227 基础的消息推送框架
   # s.requires_arc = true
 
   # s.xcconfig = { "HEADER_SEARCH_PATHS" => "$(SDKROOT)/usr/include/libxml2" }
-  # s.dependency "JPush", "~> 3.0.0"
+  s.dependency "JPush", "~> 3.0.0"
 
 end
