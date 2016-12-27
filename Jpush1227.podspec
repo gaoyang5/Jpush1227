@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "Jpush1227"
-  s.version      = "0.0.1"
+  s.version      = "0.0.2"
   s.summary      = "testJpush Jpush1227."
 
   # This description is used to generate tags and improve search results.
@@ -28,7 +28,7 @@ Pod::Spec.new do |s|
 testJpush Jpush1227 基础的消息推送框架
                    DESC
 
-  s.homepage     = "https://gitub.com/gaoyang5/Jpush1227"
+  s.homepage     = "https://github.com/gaoyang5/Jpush1227"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
@@ -80,7 +80,7 @@ testJpush Jpush1227 基础的消息推送框架
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://gitub.com/gaoyang5/Jpush1227.git", :tag => "#{s.version}" }
+  s.source       = { :git => "https://github.com/gaoyang5/Jpush1227.git", :tag => "#{s.version}" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
