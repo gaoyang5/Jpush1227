@@ -1,5 +1,0 @@
-# platform :ios, '8.0'
-target ‘123qwe’ do
- pod 'Jpush1227', :git => 'https://github.com/gaoyang5/Jpush1227.git'
-
-end
